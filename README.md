@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theprathyaksh
 
-- 🌱 I’m currently doing Freelancing ...
+- 🌱 Aspiring Java Developer & Android Developer|building creative and engaging applications|Proficient in Java, Kotlin, and Android SDK|Freelancing in Graphic Designing|Creating eye-catching designs
 
 .
 
