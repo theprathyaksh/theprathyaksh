@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prathyaksh Malligari</h1>
 <h3 align="center">Computer Science Engineer</h3>
 
-- 🔭 I’m currently working on **Read India Celebration Mobile Application**
+- 🔭 I’m currently a Freelance Developer**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Flutter Freelancing Projects**
+- 👯 I’m looking to collaborate on **Freelancing Projects**
 
-- 💬 Ask me about **Tech**
+- 💬 Ask me anything about **Tech**
 
 - 📫 How to reach me **iamprathyaksh@gmail.com**
 
