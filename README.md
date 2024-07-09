@@ -1,32 +1,5 @@
 # Prathyaksh Malligari
 
-![GitHub Badge](https://github.com/theprathyaksh) 
-[![LinkedIn Badge](https://www.linkedin.com/in/prathyaksh-malligari-474323188/)
-[![Twitter Badge](https://img.shields.io/badge/-@laishawadhwa-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/laishawadhwa)](https://twitter.com/laishawadhwa)
-[![Medium Badge](https://img.shields.io/badge/-laishawadhwa-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@laishawadhwa)](https://medium.com/@laishawadhwa)
-
-## 👋 About Me
-
-I am a passionate Software Developer with expertise in the AI and Fintech space. I have a deep interest in Web3 development, and I've built some amazing tools that have garnered attention, such as **RadarFi** and **VoteX**.
-
-## 🌐 Web3 Content Creator
-
-In addition to my development work, I'm also a web3 content creator and the author of a popular newsletter called "Web3 Bits n Bytes". I enjoy sharing my knowledge and insights with others in the community. As an educator and seasoned engineer, I believe in the power of continuous learning and strive to contribute to the growth of the web3 ecosystem.
-
-## 🔭 Current Project
-
-I’m currently working on building an automated test cases writing tool for Solidity-based smart contracts.
-
-## 📈 GitHub Stats
-
-![Laisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laishawadhwa&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laishawadhwa&layout=compact&theme=radical)
-
-## 🤝 Let's Connect
-
-Thank you for visiting my profile, and I look forward to collaborating on exciting web3 projects and advancing the boundaries of AI and fintech!
-
 
 - 📫 How to reach me **iamprathyaksh@gmail.com**
 
