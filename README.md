@@ -1,5 +1,6 @@
 # Prathyaksh Malligari
 
+Passionate Fullstack Developer
 
 - 📫 How to reach me **iamprathyaksh@gmail.com**
 
