@@ -1,8 +1,37 @@
-# Prathyaksh Malligari
 
-Passionate Fullstack Developer
+# 👋 Hi, I'm Prathyaksh Malligari!
 
-- 📫 How to reach me **iamprathyaksh@gmail.com**
+### 🚀 About Me
+I am a **Computer Science and Engineering graduate** with a passion for **web and mobile app development**. 
+With hands-on experience in **React.js**, **Flutter**, and **Node.js**, I enjoy building efficient and scalable applications that solve real-world problems. My work revolves around seamless UI/UX experiences, RESTful APIs, Firebase integrations, and state management techniques. 
+
+### 🔧 Skills & Technologies
+- **Frontend:** React.js, HTML, CSS, Tailwind CSS
+- **Mobile Development:** Flutter, Firebase Integration, Razorpay
+- **Backend:** Node.js, Firebase Realtime Database
+- **Authentication:** JWT, Firebase Auth (Phone & Google login)
+- **State Management:** Redux, Context API, Provider in Flutter
+- **Version Control:** Git & GitHub
+- **Tools & Platforms:** Firebase, Razorpay, MongoDB
+
+### 💼 Professional Experience
+- **Flutter Developer (Intern) at Skillbanc**: Built robust Flutter applications with API integrations and payment gateways.
+- **Anonymous Feedback App**: Developed using Next.js, MongoDB, and Tailwind CSS, with secure OTP-based login.
+
+### 🎯 Goals
+- Collaborate on **open-source projects** and contribute to the developer community.
+- Build meaningful products that add value to users.
+- Continuously improve my knowledge and adapt to the latest technologies.
+
+### 📫 Get in Touch
+- **Email:** prathyaksh@example.com
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/prathyaksh-malligari)
+- **GitHub:** [Follow my work](https://github.com/your-github-username)
+- **Portfolio:** [My Projects](https://your-portfolio-link.com)
+
+### ⚡ Fun Fact
+I'm an **Aquarius**, and I believe that technology combined with creativity has the power to shape a better future! Let's build something awesome together. 🌟
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
