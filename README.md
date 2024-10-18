@@ -24,13 +24,8 @@ With hands-on experience in **React.js**, **Flutter**, and **Node.js**, I enjoy 
 - Continuously improve my knowledge and adapt to the latest technologies.
 
 ### 📫 Get in Touch
-- **Email:** prathyaksh@example.com
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/prathyaksh-malligari)
-- **GitHub:** [Follow my work](https://github.com/your-github-username)
-- **Portfolio:** [My Projects](https://your-portfolio-link.com)
-
-### ⚡ Fun Fact
-I'm an **Aquarius**, and I believe that technology combined with creativity has the power to shape a better future! Let's build something awesome together. 🌟
+- **Email:** iamprathyaksh@gmail.com
+- **LinkedIn:** [Connect with me]([https://www.linkedin.com/in/prathyaksh-malligari-474323188/])
 
 
 <h3 align="left">Connect with me:</h3>
