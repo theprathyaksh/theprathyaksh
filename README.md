@@ -16,7 +16,6 @@ With hands-on experience in **React.js**, **Flutter**, and **Node.js**, I enjoy 
 
 ### 💼 Professional Experience
 - **Flutter Developer (Intern) at Skillbanc**: Built robust Flutter applications with API integrations and payment gateways.
-- **Anonymous Feedback App**: Developed using Next.js, MongoDB, and Tailwind CSS, with secure OTP-based login.
 
 ### 🎯 Goals
 - Collaborate on **open-source projects** and contribute to the developer community.
